@@ -1,11 +1,11 @@
 {
-  "name": "parcel-react-js",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve" : "parcel serve index.html",
-    "build" : "parcel build index.html"
+    "serve" : "parcel serve public/index.html",
+    "build" : "parcel build public/index.html"
   },
   "keywords": [],
   "author": "",
